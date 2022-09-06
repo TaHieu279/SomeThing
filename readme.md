@@ -24,3 +24,6 @@ implementation "androidx.navigation:navigation-ui-ktx:$nav_version" <br/>
   
 <h2> Lifecycle </h2>
 <a href="https://developer.android.com/jetpack/androidx/releases/lifecycle#declaring_dependencies"> Link Lifecycle </a>
+
+<h2> Transformer with ViewPager2 </h2>
+<a href="https://developer.android.com/develop/ui/views/animations/screen-slide-2"> Link </a>
